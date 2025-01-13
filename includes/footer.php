@@ -23,8 +23,8 @@
       <h3>Contáctanos</h3>
       <p>
         Email: <a href="mailto:contacto@e-dino.com">contacto@e-dino.com</a><br>
-        Teléfono: +123 456 7890<br>
-        Ubicación: Calle Innovación 123, Ciudad Educación
+        Teléfono: +52 2711144431<br>
+        Ubicación: C. 39 2725, Paraiso, 94650 Córdoba, Ver.
       </p>
     </div>
 
@@ -43,7 +43,7 @@
   <hr class="footer-line">
 
   <div class="footer-bottom">
-    <p>&copy; 2024 E-Dino. Todos los derechos reservados.</p>
+    <p>&copy; 2025 E-Dino™. © Todos los derechos reservados.</p>
     <p><a href="#terminos">Términos de servicio</a> | <a href="#privacidad">Política de privacidad</a></p>
   </div>
 </footer>
